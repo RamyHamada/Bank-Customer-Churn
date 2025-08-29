@@ -16,8 +16,7 @@ This project analyzes customer behavior and churn patterns using a dataset from 
 
 Structure
 - `notebooks/`: Jupyter notebooks for analysis
-- `data/`: Raw and cleaned datasets
-- `plots/`: Saved visualizations
+- `ROW Data 
 - `README.md`: Project overview
  Goal
 Help financial institutions understand customer behavior and reduce churn through data-driven insights.
